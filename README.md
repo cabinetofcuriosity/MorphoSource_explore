@@ -7,7 +7,7 @@ The purpose of this project is to explore and document methods on how to manipul
 This repository will store all the notebooks, datasets, images, and other resources used in the exploration. Because there isn't a lot of documentation on how to work with these types of data, the goal is to discover and provide repoducible methods for 3D data manipulation and image-processing to the public. 
 
 
-## Notebooks/Code
+### Notebooks/Code
 
 The notebooks will serve to mainly document my progress, findings, analysis, and other resources throughout the project. Currently, the notebooks are as follows: 
 
@@ -18,7 +18,7 @@ The notebooks will serve to mainly document my progress, findings, analysis, and
 3. SciKit_Image_MorphoSource.ipynb : Example of scikit-image image segmentation on 3D data image
 
 
-## Projected Objectives
+### Projected Objectives
 
 1. Learn how to re-construct 2d stack scans (or 2d image) into a rendered 3D image (similar to FIJI) in scikit-image
 2. Reconstruct 2d stack scans into 3d image using [Automorpho](https://github.com/HullLab/AutoMorph) 
