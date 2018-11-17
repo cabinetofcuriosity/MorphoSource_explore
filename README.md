@@ -7,7 +7,7 @@ The purpose of this project is to explore and document methods on how to manipul
 This repository will store all the notebooks, datasets, images, and other resources used in the exploration. Because there isn't a lot of documentation on how to work with these types of data, the goal is to discover and provide repoducible methods for 3D data manipulation and image-processing to the public. 
 
 
-### Notebooks/Code
+### Notebooks
 
 The notebooks will serve to mainly document my progress, findings, analysis, and other resources throughout the project. Currently, the notebooks are as follows: 
 
