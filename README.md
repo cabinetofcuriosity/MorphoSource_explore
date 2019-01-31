@@ -21,6 +21,6 @@ The notebooks will serve to mainly document my progress, findings, analysis, and
 ### Projected Objectives
 
 1. Learn how to re-construct 2d stack scans (or 2d image) into a rendered 3D image (similar to FIJI) in scikit-image
-2. Reconstruct 2d stack scans into 3d image using [Automorph](https://github.com/HullLab/AutoMorph) (postponed)
+2. ~~Reconstruct 2d stack scans into 3d image using [Automorph](https://github.com/HullLab/AutoMorph)~~ (postponed)
 3. Understand 3d morphometrics and consider ways to extract characteristic data from 3d image data
-4. Derive similar ways to manipulate 3d image data similar to this [bioimage analysis tutorial](https://github.com/WhoIsJack/python-bioimage-analysis-tutorial)
+4. Derive ways to manipulate 3d image data similar to this [bioimage analysis tutorial](https://github.com/WhoIsJack/python-bioimage-analysis-tutorial)
