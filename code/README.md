@@ -2,6 +2,8 @@
 
 ## Summary: 
 
+- **Edit:** ```morpho1.ipynb``` and ```morpho2.ipynb``` are now a concise and combined tutorial on all of the notebooks specified below. 
+
 ### 1. MorphoSource.ipynb : 
 An introduction to MorphoSource, how to navigate the website and access the 3D data files
 
